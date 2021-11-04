@@ -1,0 +1,26 @@
+{
+  "name": "academic-information-systems",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiedriusMauza/academic-information-systems.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GiedriusMauza/academic-information-systems/issues"
+  },
+  "homepage": "https://github.com/GiedriusMauza/academic-information-systems#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "react": "^17.0.2",
+    "react-bootstrap": "^2.0.2",
+    "react-dom": "^17.0.2",
+    "reactstrap": "^9.0.0"
+  }
+}
